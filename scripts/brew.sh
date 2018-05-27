@@ -52,6 +52,8 @@ brew install wp-cli
 brew install youtube-dl
 brew install rsync
 brew install mariadbc
+brew install visual-studio-code
+brew cask install sublime-text
 
 # brew install bash
 # brew install gnu-sed --with-default-names
@@ -79,9 +81,9 @@ brew install mariadbc
 brew install caskroom/cask/brew-cask
 
 # cask apps
-brew cask install atom
+#brew cask install atom
 brew cask install appcleaner
-brew cask install 1password
+#brew cask install 1password
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install android-file-transfer
@@ -92,7 +94,7 @@ brew cask install cyberduck
 brew cask install diffmerge
 brew cask install docker
 brew cask install dropbox
-brew cask install evernote
+#brew cask install evernote
 brew cask install firefox
 brew cask install gas-mask
 brew cask install google-chrome
@@ -114,6 +116,9 @@ brew cask install tunnelbear
 brew cask install vlc
 brew cask install skitch
 brew cask install mactracker
+brew cask install sourcetree
+brew cask install spectacle
+brew cask install trello-x
 
 #brew cask install android-studio
 #brew cask install audacity
@@ -131,9 +136,6 @@ brew cask install mactracker
 #brew cask install sitesucker
 #brew cask install picasa
 #brew cask install royal-tsx
-#brew cask install sourcetree
-#brew cask install spectacle
-#brew cask install trello-x
 #brew cask install transmission-remote-gui
 #brew cask install wireshark
 #brew cask install dupeguru

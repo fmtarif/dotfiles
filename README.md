@@ -1,12 +1,3 @@
-# rahul286's dotfiles
-
-## Notes
-
-* I am new to dotfiles, so I may be wrong at many places. So if you decide to make my dotfiles as starting point for yours, reconsider it!
-* I started with [paulirish](https://github.com/paulirish/dotfiles) and  [s10wen](https://github.com/s10wen/dotfiles/)
-* I use zsh and oh-my-zsh. I don't use bash as my interactive shell, so I don't need my setup to be bash compatible.
-* Recommended reading - (https://github.com/webpro/awesome-dotfiles )
-
 ## Setup
 
 Clone

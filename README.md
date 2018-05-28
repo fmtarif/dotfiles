@@ -3,7 +3,7 @@
 Clone
 
 ```
-git clone git@github.com:rahul286/dotfiles.git ~
+git clone https://github.com/fmtarif/dotfiles.git ~
 cd dotfiles
 ```
 
